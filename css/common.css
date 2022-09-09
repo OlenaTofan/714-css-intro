@@ -1,0 +1,18 @@
+:root {
+  --text_color: black;
+  --background-color: #f82764;
+  --dark-background-color: #222222;
+}
+
+h1 {
+  color: var(--text-color);
+}
+
+h3 {
+  color: var(--text-color);
+  width: 50%;
+}
+
+h3:hover {
+    text-decoration: underline;
+}
