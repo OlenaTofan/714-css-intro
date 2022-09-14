@@ -1,5 +1,7 @@
 @import url(common.css);
+@import url(controls.css);
 @import url(index-header.css);
+@import url(burger-menu.css);
 @import url(index-prodacts.css);
 @import url(index-footer.css);
 
